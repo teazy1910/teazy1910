@@ -1,4 +1,4 @@
-# Hi there 👋
+# Hi there 👋,
 
 my name is Tanja and I enjoy creating apps for the internet. My interest in web development began in my studies with Java and then continued in project work. After my studies, I learned more about web development through self-study and started my own websites in my spare time.
 
