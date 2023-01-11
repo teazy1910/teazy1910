@@ -1,9 +1,9 @@
 # Hello there 👋
 
-my name is Tanja and I enjoy creating apps for the internet. My interest in web development began in my studies with Java and then continued in project work. After my studies, I learned more about web development through self-study and started my own websites in my spare time.
+my name is Tanja and I enjoy creating apps for the internet. I am currently refreshing my web developing skills at coding bootcamps europe in JavaScript, HTML, CSS, NodeJS, Cypress, Jest, VueJS 👩🏽‍💻
 
 
-- 🌱 I’m currently learning web development at coding bootcamp europe
+- 🌱 I’m currently learning web development at coding bootcamps europe
 - 💬 Ask me about anything. I'll try to answer soon.
 - 📫 How to reach me: tanjadietz.com
 - 💭 “Talent is a pursued interest. Anything that you're willing to practice, you can do.”
