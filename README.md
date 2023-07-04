@@ -1,9 +1,9 @@
 # Hello there 👋
 
-my name is Tanja and I enjoy creating apps for the internet. I am currently refreshing my web developing skills at coding bootcamps europe in JavaScript, HTML, CSS, NodeJS, Cypress, Jest, VueJS 👩🏽‍💻
+my name is Tanja and I enjoy creating apps for the internet with a passion for Ui & UX. 
 
+💻 I attended a bootcamp to deepen my front-end skills, (after my studies) which I successfully completed with a final project in Vuejs, Cypress, JavaScript.
 
-- 🌱 I’m currently learning web development at coding bootcamps europe
 
 - 💭 “Talent is a pursued interest. Anything that you're willing to practice, you can do.”
 - 💭 “Don’t give up trying to do what you really want to do.”
